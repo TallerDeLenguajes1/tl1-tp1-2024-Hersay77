@@ -1,14 +1,14 @@
-##### ARCHIVO .gitinore
+# **TRABAJO PRACTICO N°1**
 
-###¿Por qué es conveniente incluirlo?
+## **Archivo .getignore ¿Por qué es conveniente incluirlo?**
 
 - .gitignore es un archivo utilizado por el sistema de control de versiones Git para especificar qué archivos y directorios deben ser ignorados y no ser rastreados por Git
 
-###¿Cuándo se debe hacer?
+## **¿Cuándo se debe hacer?**
 
 - Esto es útil para evitar que archivos no deseados (como archivos temporales, archivos compilados, archivos de configuración local, etc.) se incluyan accidentalmente en el repositorio de Git.
 
-###¿Cómo configuraría el archivo .gitignore?
+## **¿Cómo configuraría el archivo .gitignore?**
 
 - Para configurar un archivo .gitignore, simplemente crea un archivo llamado .gitignore en el directorio raíz de tu repositorio de Git, si aún no existe. Luego, puedes editar este archivo utilizando un editor de texto para agregar reglas que indiquen a Git qué archivos o directorios ignorar. 
 
