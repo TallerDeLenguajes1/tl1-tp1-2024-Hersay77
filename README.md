@@ -47,4 +47,10 @@ _.DS_Store_
 
 ## EJERCICIO 3 
   ### **Respuesta prgunta c) y d)**
-  ### El arcivo que se necesita es tp1_1.cpp. Los otros archivos como ejecutables generados, archivos de configuración de Visual Studio Code o archivos temporales, podrían no ser necesarios en el repositorio. Entonces se implementa reglas al archivo .gitignore con el sitio web sitio web https://www.gitignore.io/
+  - El arcivo que se necesita es tp1_1.cpp. Los otros archivos como ejecutables generados, archivos de configuración de Visual Studio Code o archivos temporales, podrían no ser necesarios en el repositorio. Entonces se implementa reglas al archivo .gitignore con el sitio web sitio web https://www.gitignore.io/
+
+  ### **Respuesta prgunta g)**
+  - El resultado de los puntos 2 (direccion de memoria almacenada por el puntero) y punto 3 (direccion de la variable), es el mismo debido a que lo que contiene el puntero es la direccion de memoria de la variable a la cual apunta, y si usamos el nombre del puntero, pvariable, nos devolvera dicha direccion y es lo mismo que indicar la direccion de la variable utilizando $variable como argumentos en la funcion printf.
+  - En el punto 4 se obtiene una direccion de memoria, pero ésta no es la direccion a la que apunta el puntero si no la direccion propia de la variable puntero, la cual no será igual a las anteriores ya que no se trata de la misma direccion de variable.
+
+
