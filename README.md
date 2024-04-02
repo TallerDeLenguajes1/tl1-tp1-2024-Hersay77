@@ -2,7 +2,7 @@
 
 ## EJERCICIO 2  REPASO DE PUNTEROS
 
-### ** 2.a) Archivo .getignore ¿Por qué es conveniente incluirlo?**
+### **2.a) Archivo .getignore ¿Por qué es conveniente incluirlo?**
 
 - .gitignore es un archivo utilizado por el sistema de control de versiones Git para especificar qué archivos y directorios deben ser ignorados y no ser rastreados por Git
 
